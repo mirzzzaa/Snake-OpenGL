@@ -1,8 +1,4 @@
-/*
-Abdur Rafay Mirza
-23I-6009
-DS-C
-*/
+
 
 #ifndef TETRIS_CPP_
 #define TETRIS_CPP_
@@ -22,7 +18,7 @@ DS-C
 
 using namespace std;
 
-void SetCanvasSize(int width, int height); // taken down below for neatness
+void SetCanvasSize(int width, int height); 
 
                                                       // GLOBAL VARIABLES
 
